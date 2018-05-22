@@ -1,0 +1,43 @@
+header {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+body {
+    color: gray ;
+    background: gray;
+    width: 960px;
+    font-size: 18px;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+#nav {
+    background-color: white;
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+#section {
+    background-color: white;
+    padding: 20px; 
+    margin-top: 10px;
+}
+
+footer {
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#aside {
+    background-color: white;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
