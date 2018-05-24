@@ -24,8 +24,13 @@ body {
 
 #section {
     background-color: white;
-    padding: 20px; 
+    padding: 35px; 
     margin-top: 10px;
+    float: left;
+    height: 240px;
+    width: 400px; 
+    text-align: center;
+
 }
 
 footer {
@@ -33,11 +38,41 @@ footer {
     padding: 10px;
     text-align: center;
     margin-bottom: 10px;
+    margin-top: 350px;
 }
 
 #aside {
     background-color: white;
-    padding: 20px;
     margin-top: 10px;
     margin-bottom: 10px;
+    float: left;
+    height: 240px;
+    width: 400px;
+    margin-left: 20px;
+    text-align: center;
+    padding: 35px;
+}
+
+article {
+    background-color: rgb(133, 133, 133);
+    height: 200px;
+    margin-top: 25px;
+    color: white;
+}
+
+#h1 {
+    background-color: white;
+    height: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: gray;
+    
+    
+}
+
+#p {
+    background-color: white;
+    color: gray;
+    height: 50px
+    
 }
